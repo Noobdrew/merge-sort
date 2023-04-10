@@ -37,4 +37,4 @@ function mergeSort(arr) {
         return arr
     }
 }
-mergeSort([5,2,7,9,6])
+mergeSort(['cat','dog','animal', 'snake'])
